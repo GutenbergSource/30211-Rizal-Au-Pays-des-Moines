@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Au Pays des Moines (Noli me tangere)</dc:title>
+      <dc:creator>José Rizal (1861–1896)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2009-10-07</dc:publisher>
+      <dc:date>2009-10-07</dc:date>
+      <dc:rights>Cet ebook est destiné à l’usage de tous, partout, à prix nul et avec pratiquement aucune restriction de quelque sorte que ce soit. Vous pouvez le copier, le donner ou le réutiliser selon les termes de la licence du Project Gutenberg incluse avec cet ebook, ou disponible en ligne sur www.gutenberg.org.
+Cet ebook a été produit par l’équipe de relecteurs en ligne Distributed Proofreaders (www.pgdp.net).
+</dc:rights>
+      <dc:subject>Historical fiction</dc:subject>
+      <dc:subject>Philippines - History - 1812-1898 - Fiction</dc:subject>
+      <dc:identifier>pg:30211</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
